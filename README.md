@@ -41,28 +41,34 @@ nix-repl> 1 + 1
 - Add four and five in the Nix repl
 
 <details>
+
 ```
 nix-repl> 4 + 5
 9
 ```
+
 </details>
 
 - The multiplication operator is `*`, try multiplying four and five
 
 <details>
+
 ```
 nix-repl> 4 * 5
 20
 ```
+
 </details>
 
 - What do you think will happen if you write `"hello" + "world"`? Did your answer match the result?
 
 <details>
+
 ```
 nix-repl> "hello" + "world"
 "helloworld"
 ```
+
 </details>
 
 # Available Tutorials
